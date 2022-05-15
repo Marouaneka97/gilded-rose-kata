@@ -5,4 +5,4 @@ With your editor (Inteliij or Eclipse) you can goto File and open the projet ( p
 
 the "Item" class is moved to an new folder "item", wich contain all the new classe and interface used to refactor the code.
 
-You will  find also a list of Junit test s addes in class "GildedRoseTets" with the different cases, to simulate the behavior of code.
+You will  find also a list of Junit tests added in class "GildedRoseTets" with the different cases, to simulate the behavior of code.
